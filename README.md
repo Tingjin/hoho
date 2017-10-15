@@ -1,2 +1,2 @@
 master
-v1
+EPIC V2
